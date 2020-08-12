@@ -2,7 +2,7 @@
 ## Simple musicplayer made with Java and JavaFx
 ### Main features: </br>
 * explores specified directories in search of music files with extensions of your choice
-* provides convinient way of managing music files
+* provides a convinient way of managing music files
 * enables playing your favourite music
 * displays currently played song and it's cover image
 
