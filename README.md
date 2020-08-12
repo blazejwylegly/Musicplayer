@@ -11,3 +11,10 @@
 ### Authors: </br>
 * [Tomasz Knura](https://github.com/tknura)</br>
 * [Błażej Wylęgły](https://github.com/bwylegly)</br>
+
+Sample application screenshots:
+<br>
+![alt text](https://github.com/bwylegly/Musicplayer/blob/master/screenshots/songs.png?raw=true)
+<br>
+<br>
+![alt text](https://github.com/bwylegly/Musicplayer/blob/master/screenshots/albums.png?raw=true)
